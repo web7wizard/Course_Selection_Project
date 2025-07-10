@@ -39,7 +39,7 @@ public class App
         case 5:
                n.updn(); break;
         case 6:
-               System.out.println("no issue come next time when you decide d your priority ~~~ \n");
+               System.out.println("no issue come next time when you decide  your priority ~~~ \n");
       }
     }
      
