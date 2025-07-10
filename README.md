@@ -5,6 +5,7 @@ For Diploma CM6K we have elective subjecs to choose  1: Data Analytics   2: Clou
 so in this application student can choose any one of above to learn and can also do changes  until last date .. 
 Designed for use in a college course selection process, this system uses JDBC for database operations.
 
+
 # 🚀 Features
 - show list if you wanna select subject or wanna update or delete 
 - after display all three course or subject list
@@ -12,6 +13,7 @@ Designed for use in a college course selection process, this system uses JDBC fo
 - Accept student course
 - store data in the data base table (data - rollno,name,course)
 - clean , interactive console interface
+
 
  # How to run
  -  📘 select what you want to do 
@@ -21,6 +23,7 @@ Designed for use in a college course selection process, this system uses JDBC fo
  -  🔐 Data persistence via JDBC and SQL 
  -  📟 Simple and interactive console interface
 
+
  # 🛠️ Tool Used
  - java           -    jdk-24_windows-x64_bin  version for Coding support
  - Postgresql     -    for data manegment
@@ -29,6 +32,7 @@ Designed for use in a college course selection process, this system uses JDBC fo
  - Scanner        -    for console input
  - mavan          -    this is mavan project created via vs code
 
+
  # 📂 mavan dependancy
 
     <dependency>
@@ -36,6 +40,7 @@ Designed for use in a college course selection process, this system uses JDBC fo
               <artifactId>postgresql</artifactId>
               <version>42.7.7</version>
    </dependency>
+
         
  
  # 📂 Project Structure
@@ -49,6 +54,7 @@ Designed for use in a college course selection process, this system uses JDBC fo
                 ├── updateR.java      # Updates roll number
                 ├── updateN.java      # Updates name
 
+
  # 📂 Schema of table
 
     CREATE TABLE students (
@@ -56,12 +62,14 @@ Designed for use in a college course selection process, this system uses JDBC fo
                    name VARCHAR(100),
                    course VARCHAR(100) );
 
+
 # ⚙️ requirement to run programme
 
 - install java and any IDE
 - Configure the database postgresql
 - Create table
 - do changes in code your username ad passward
+
 
 #  📧 output
 this is menu driven programme, 
@@ -91,6 +99,8 @@ this is menu driven programme,
 
              6
              no issue come next time when you decide  your priority ~~~`
+
+
              
 # 🙋‍♂️ Author                   
 -    Name              -  javeriya jamadar
