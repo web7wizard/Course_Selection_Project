@@ -100,16 +100,18 @@ this is menu driven programme,
              6
              no issue come next time when you decide  your priority ~~~`
 
+# 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
              
-# 🙋‍♂️ Author                   
+# 👩‍💻 Author                   
 -    Name              -  javeriya jamadar
 -    college           -  sesp 
 - 📧 emil account     -  javeriyajamadar@gmail.com
 - 🔗 GitHub Profile   -  web7wizard 
 
-
-
+#
+Proudly developed as part of a journey in learning and building real-world Java applications. 🎓💻
 
 
 
