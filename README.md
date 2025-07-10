@@ -90,7 +90,7 @@ this is menu driven programme,
              4:  update name    5:  i submit wrong data wanna delete it   6:  exit 
 
              6
-             no issue come next time when you decide  your priority ~~~
+             no issue come next time when you decide  your priority ~~~`
              
 # 🙋‍♂️ Author                   
 -    Name              -  javeriya jamadar
