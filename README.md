@@ -74,8 +74,24 @@ this is menu driven programme,
       
              -------------------------------------------------------------------------------------------  
              1:  select course  2:  update selected course                3:  update rollno  
-             4:  update name    5:  i submit wrong data wanna delete it   6:  exit          
+             4:  update name    5:  i submit wrong data wanna delete it   6:  exit 
+             
+             1
+             lets select your elective subject for cm6k
+             enter the rollno : 2501
+             enter the name   : jiya
+             choose any one course you have interest in, please dont press any wrong choice .
+              ```  1: Data Analytics   2: Cloud Computing   3: Advanced Computer Network   ```
+              1
+             Course selection successful, rollno 2501 jiya  Hope you enjoy studying Data Analytics..
 
+           -------------------------------------------------------------------------------------------  
+             1:  select course  2:  update selected course                3:  update rollno  
+             4:  update name    5:  i submit wrong data wanna delete it   6:  exit 
+
+             6
+             no issue come next time when you decide  your priority ~~~
+             
 # 🙋‍♂️ Author                   
 -    Name              -  javeriya jamadar
 -    college           -  sesp 
