@@ -107,11 +107,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 # 👩‍💻 Author                   
 -    Name              -  javeriya jamadar
 -    college           -  sesp 
-- 📧 emil account     -  javeriyajamadar@gmail.com
+- 📧 emil account     -  javeriyajamadar7@gmail.com
 - 🔗 GitHub Profile   -  web7wizard 
 
 #
-Proudly developed as part of a journey in learning and building real-world Java applications. 🎓💻
+** Proudly developed as part of a journey in learning and building real-world Java applications. 🎓💻**
 
 
 
